@@ -1,0 +1,124 @@
+body{
+	min-width: 700px;
+	overflow: auto;
+	/* background-image: url(20191016_020045-1.jpg);
+	background-size: 100% 700px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;*/
+}
+#harouna{
+	width: 99%;
+	height: 650px;
+	/*border: 2px solid black;*/
+}
+header{
+	width: 99%;
+	height: 50px;
+	/*border: 2px solid green;*/
+	position: fixed;
+}
+.div1{
+	/*border: 2px solid red;*/
+	background-color: green;
+	height: 80%;
+	width: 16%;
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+}
+.div1:hover{
+	background-color: red;
+}
+#p1{
+	width: 99%;
+	height: 40px;
+}
+.h3{
+	width: 50%;
+	height: 70px;
+	background-color: yellow;
+	text-align: center;
+	margin: 0px auto;
+	overflow: auto;
+}
+.h3:hover{
+	background-color: red;
+	width: 95%;
+}
+.une{
+	width: 100%;
+	height: 200px;
+	background-color: blue;
+}
+.un{
+	width: 98%;
+	height: 520px;
+	/*border: 2px solid yellow;*/
+	margin: 5px;
+}
+content{
+	width: 73%;
+	height: 97%;
+	border: 2px solid blue;
+	margin: 5px;
+	float: right;
+}
+content h2{
+	background-color: red;
+	text-align: center;
+}
+content div{
+	display: inline-block;
+	width: 30%;
+	height: 38%;
+	margin: 1%;
+	background-color: green;
+}
+content div img{
+	width: 99%;
+	height: 99%;
+	border: 2px solid black;
+}
+nav{
+	width: 23%;
+	height: 67%;
+	border: 2px solid red;
+	margin: 5px;
+	text-align: center;
+	overflow: auto;
+}
+nav h1{
+	background-color: red;
+}
+nav h2{
+	color: red;
+	background-color: yellow;
+}
+.conclu{
+	width: 99%;
+	height: 50px;
+	border: 2px solid red;
+	background-color: yellow;
+	margin: 5px;
+	text-align: center;
+	overflow: auto;
+}
+.conclu h2{
+	background-color: red;
+	display: inline-block;
+}
+.conclu h4{
+	display: inline-block;
+}
+#Remonter{
+	float: right;
+	width: 100px;
+	height: 30px;
+	background-color: green;
+	p
+
+}
+#Remonter h3{
+	line-height: 0px;
+
+}
